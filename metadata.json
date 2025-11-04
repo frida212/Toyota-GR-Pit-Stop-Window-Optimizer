@@ -1,0 +1,5 @@
+{
+  "name": "Pit Stop Strategist",
+  "description": "An AI-powered race pit stop window calculator to minimize race time. The app analyzes tire wear models, in-lap/out-lap traffic, and strategic options like undercut and overcut to provide optimal strategies.",
+  "requestFramePermissions": []
+}
